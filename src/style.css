@@ -1,0 +1,11 @@
+.titulo {
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 2rem;
+  color: #1e293b;
+  margin-bottom: 0.5rem;
+}
+
+.completada {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
